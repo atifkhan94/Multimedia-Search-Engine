@@ -1,0 +1,26 @@
+# Core dependencies
+numpy>=1.19.0
+pandas>=1.2.0
+
+# Web Crawling
+selenium>=4.0.0
+beautifulsoup4>=4.9.0
+requests>=2.25.0
+
+# NLP and Text Processing
+nltk>=3.6.0
+spacy>=3.0.0
+
+# Deep Learning and Computer Vision
+tensorflow>=2.5.0
+openvino-dev>=2023.0.0
+pillow>=8.0.0
+torch>=1.9.0
+torchvision>=0.10.0
+
+# Web Framework
+flask>=2.0.0
+flask-cors>=3.0.0
+
+# Database
+pymongo>=3.12.0
